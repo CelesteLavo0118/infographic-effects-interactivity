@@ -301,3 +301,120 @@ footer svg {
   margin: auto;
   padding: 1rem;
 }
+
+.brain-box {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-brain-animate {
+  opacity: 1;
+}
+
+.volunteer {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-volunteer-animate {
+  opacity: 1;
+}
+
+.plan {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-plan-animate {
+  opacity: 1;
+}
+
+.argue {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-argue-animate {
+  opacity: 1;
+}
+
+.factual {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-factual-animate {
+  opacity: 1;
+}
+
+.alone {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-alone-animate {
+  opacity: 1;
+}
+
+.avoid {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-avoid-animate {
+  opacity: 1;
+}
+
+.prioritize {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-priority-animate {
+  opacity: 1;
+}
+
+.interest {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-interest-animate {
+  opacity: 1;
+}
+
+.track {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-track-animate {
+  opacity: 1;
+}
+
+.possibilities {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-possible-animate {
+  opacity: 1;
+}
+
+.organize {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-organize-animate {
+  opacity: 1;
+}
+
+.lecture {
+  opacity: 0;
+  transition: all 200ms ease-in;
+}
+
+.js-lecture-animate {
+  opacity: 1;
+}
