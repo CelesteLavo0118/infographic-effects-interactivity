@@ -18,7 +18,7 @@ $brain.waypoint(function (direction) {
   } else {
     $brain.removeClass('js-brain-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $volunteer.waypoint(function (direction) {
   if (direction == 'down') {
@@ -26,7 +26,7 @@ $volunteer.waypoint(function (direction) {
   } else {
     $volunteer.removeClass('js-volunteer-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $plan.waypoint(function (direction) {
   if (direction == 'down') {
@@ -34,7 +34,7 @@ $plan.waypoint(function (direction) {
   } else {
     $plan.removeClass('js-plan-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $argue.waypoint(function (direction) {
   if (direction == 'down') {
@@ -42,7 +42,7 @@ $argue.waypoint(function (direction) {
   } else {
     $argue.removeClass('js-argue-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $factual.waypoint(function (direction) {
   if (direction == 'down') {
@@ -50,7 +50,7 @@ $factual.waypoint(function (direction) {
   } else {
     $factual.removeClass('js-factual-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $alone.waypoint(function (direction) {
   if (direction == 'down') {
@@ -58,7 +58,7 @@ $alone.waypoint(function (direction) {
   } else {
     $alone.removeClass('js-alone-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $avoid.waypoint(function (direction) {
   if (direction == 'down') {
@@ -66,7 +66,7 @@ $avoid.waypoint(function (direction) {
   } else {
     $avoid.removeClass('js-avoid-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $priority.waypoint(function (direction) {
   if (direction == 'down') {
@@ -74,7 +74,7 @@ $priority.waypoint(function (direction) {
   } else {
     $priority.removeClass('js-priority-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $interest.waypoint(function (direction) {
   if (direction == 'down') {
@@ -82,7 +82,7 @@ $interest.waypoint(function (direction) {
   } else {
     $interest.removeClass('js-interest-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $track.waypoint(function (direction) {
   if (direction == 'down') {
@@ -90,7 +90,7 @@ $track.waypoint(function (direction) {
   } else {
     $track.removeClass('js-track-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $possible.waypoint(function (direction) {
   if (direction == 'down') {
@@ -98,7 +98,7 @@ $possible.waypoint(function (direction) {
   } else {
     $possible.removeClass('js-possible-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $organize.waypoint(function (direction) {
   if (direction == 'down') {
@@ -106,7 +106,7 @@ $organize.waypoint(function (direction) {
   } else {
     $organize.removeClass('js-organize-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
 
 $lecture.waypoint(function (direction) {
   if (direction == 'down') {
@@ -114,4 +114,4 @@ $lecture.waypoint(function (direction) {
   } else {
     $lecture.removeClass('js-lecture-animate');
   }
-}, { offset:'70%'});
+}, {offset: '70%'});
