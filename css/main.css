@@ -318,6 +318,7 @@ footer svg {
 
 .js-volunteer-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .plan {
@@ -327,6 +328,7 @@ footer svg {
 
 .js-plan-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .argue {
@@ -336,6 +338,7 @@ footer svg {
 
 .js-argue-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .factual {
@@ -345,6 +348,7 @@ footer svg {
 
 .js-factual-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .alone {
@@ -354,6 +358,7 @@ footer svg {
 
 .js-alone-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .avoid {
@@ -363,6 +368,7 @@ footer svg {
 
 .js-avoid-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .prioritize {
@@ -372,6 +378,7 @@ footer svg {
 
 .js-priority-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .interest {
@@ -381,6 +388,7 @@ footer svg {
 
 .js-interest-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .track {
@@ -390,6 +398,7 @@ footer svg {
 
 .js-track-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .possibilities {
@@ -399,6 +408,7 @@ footer svg {
 
 .js-possible-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .organize {
@@ -408,6 +418,7 @@ footer svg {
 
 .js-organize-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
 }
 
 .lecture {
@@ -417,4 +428,20 @@ footer svg {
 
 .js-lecture-animate {
   opacity: 1;
+  animation: smalljiggle 250ms linear;
+}
+
+@keyframes smalljiggle {
+  0% {
+    transform: rotate(0);
+  }
+  33% {
+    transform: rotate(15deg);
+  }
+  66% {
+    transform: rotate(-15deg);
+  }
+  100%{
+    transform: rotate(0);
+  }
 }
