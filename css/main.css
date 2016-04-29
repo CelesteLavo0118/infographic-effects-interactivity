@@ -444,7 +444,7 @@ footer svg {
   66% {
     transform: rotate(-15deg);
   }
-  
+
   100% {
     transform: rotate(0);
   }
