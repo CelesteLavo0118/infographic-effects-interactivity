@@ -432,16 +432,20 @@ footer svg {
 }
 
 @keyframes smalljiggle {
+
   0% {
     transform: rotate(0);
   }
+
   33% {
     transform: rotate(15deg);
   }
+
   66% {
     transform: rotate(-15deg);
   }
-  100%{
+  
+  100% {
     transform: rotate(0);
   }
 }
